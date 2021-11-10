@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color: rgb(255,239,213);
+    padding: 10px;
+    margin: 20px;
+    color: rgb(161, 0, 0);
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(255,239,213);
+    padding: 10px;
+    margin: 20px;
+    color:rgb(161, 0, 0);
+}
+
+div{
+    border: 3px solid rgb(139,0,0);
+    background-color: rgb(255, 196, 185);
+    padding: 10px;
+}
+
+span{
+    color:rgb(255, 38, 0);
+}

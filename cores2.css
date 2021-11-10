@@ -1,0 +1,22 @@
+h1{
+    background-color: rgb(245,222,179);
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(252, 215, 146);
+    text-align: center;
+    margin: 30px;
+}
+
+div{
+    background-color: rgb(255,222,173);
+    border: 4px solid rgb(139,69,19);
+}
+
+span{
+    font-weight: bolder;
+    color:rgb(210,105,30);
+}
